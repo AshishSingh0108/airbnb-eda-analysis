@@ -5,6 +5,7 @@ Exploratory Data Analysis of Airbnb listing data to understand pricing patterns,
 
 ## Project Structure
 airbnb-analysis/
+
 ├── airbnb_eda.ipynb # Main Jupyter notebook
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
